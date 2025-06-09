@@ -8,6 +8,7 @@ export default {
     colors: {
       'primary-color': '#191A23',
       'secondary-color': '#B9FF66',
+      'custom-white-color': '#FFFFFF',
     },
     fontFamily: {
       
