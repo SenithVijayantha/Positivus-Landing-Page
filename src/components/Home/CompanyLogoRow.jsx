@@ -3,7 +3,7 @@ import { amazon, dribbble, hubspot, netflix, notion, zoom } from "../../assets";
 
 const CompanyLogoRow = () => {
   return (
-    <div className="scroller sm:max-w-sm lg:max-w-full mx-auto">
+    <div className="scroller sm:max-w-sm lg:max-w-5xl mx-auto ">
       <div className="scroller__inner flex flex-wrap justify-center gap-4 sm:gap-8 my-8 lg:justify-between">
         <img src={amazon} alt="" className="w-24 object-contain" />
         <img src={dribbble} alt="" className="w-24 object-contain" />
