@@ -1,12 +1,14 @@
 import React from 'react'
 import Hero from './components/Home/Hero'
 import Services from './components/Home/Services'
+import CaseStudies from './components/Home/CaseStudies'
 
 const App = () => {
   return (
-    <div className='px-4 py-4 sm:px-12'>
+    <div className=''>
       <Hero></Hero>
       <Services></Services>
+      <CaseStudies></CaseStudies>
     </div>
   )
 }
