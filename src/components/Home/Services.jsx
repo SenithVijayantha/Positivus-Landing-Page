@@ -11,7 +11,7 @@ import {
 
 const Services = () => {
   return (
-    <div className="flex flex-col items-center gap-16">
+    <div className="flex flex-col items-center gap-16 mt-32 px-4 py-4 sm:px-12">
       <div className="flex flex-col items-center gap-8 sm:max-w-md">
         <h1 className="text-4xl bg-secondary-color px-2 rounded-lg font-medium">
           Services
